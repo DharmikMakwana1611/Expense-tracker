@@ -8,8 +8,8 @@ A modern, interactive personal finance dashboard built with **React** and **Tail
 
 FinTrack lets users track income, expenses, and financial patterns through an intuitive interface with smart insights, role-based access, and persistent data storage.
 
-**Live demo:** *(deploy to Vercel/Netlify and add link here)*  
-**GitHub:** *(your repo URL here)*
+**Live demo:** *https://expense-tracker-8.netlify.app/*  
+**GitHub:** *https://github.com/DharmikMakwana1611/Expense-tracker.git*
 
 ---
 
